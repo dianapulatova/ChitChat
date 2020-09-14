@@ -1,2 +1,2 @@
 # ChitChat
-Samll Talk App
+Small Talk App
